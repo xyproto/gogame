@@ -1,4 +1,5 @@
-gogame
-======
+3D/game library for Go, inspired by Pyglet
+==========================================
 
-3D/game library for Go
+TODO:
+* Create dummy funcions for the entire API
